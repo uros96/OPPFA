@@ -8,5 +8,9 @@ if __name__ == "__main__":
     first100()
     tuples()
     sets()
+    oddOrEven()
+    sumaa()
+    stringReverse()
+    student_list()
 else:
     print("Something does not work :/")
